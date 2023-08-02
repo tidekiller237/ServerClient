@@ -1,0 +1,23 @@
+﻿  client.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\CMDUtils.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\client.cpp(174,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\client.cpp(237,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CNE_Project.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\CMDUtils.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  server.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\CMDUtils.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(134,65): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(137,64): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(336,48): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(349,48): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(355,48): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(391,43): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(405,43): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(434,20): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(453,48): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\CNE_Project\server.cpp(462,47): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  Generating Code...
+  CNE_Project.vcxproj -> C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\CNE_Project\x64\Debug\CNE_Project.exe
